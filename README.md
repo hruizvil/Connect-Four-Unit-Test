@@ -1,2 +1,5 @@
 # connect-four-unit-test
-This module tests the components of the Board class in the connect four module
+
+We are testing the connect four object.
+Making sure that errors are appearing whenever we expect them to.
+And that tests are passing when we also expect them to.
