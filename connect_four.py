@@ -1,12 +1,4 @@
-'''
-Name : Hugo Ruiz Villar & lanxiang Yang
-NetID: hruizvil & lanxiany
-IDs #: 66212078 & 63972549
-
-    @author:
-        This code was originally made by Hongyang Cai 
-        and Hugo Ruiz
-        
+'''        
     This program represents a Connect Four gameboard and 
     the game logic, but performs no interaction with a user.
     
