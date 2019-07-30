@@ -1,11 +1,6 @@
 '''
-Name : Hugo Ruiz Villar & lanxiang Yang
-NetID: hruizvil & lanxiany
-IDs #: 66212078 & 63972549
-
     This is a unit test module, it is a class made
-    to test components of the Connect Four module.
-    
+    to test components of the Connect Four module.    
 '''
 import unittest
 import connect_four
